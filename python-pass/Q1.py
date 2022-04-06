@@ -1,3 +1,4 @@
+# Function find Number is ( Even or Odd ) 
 def checkIntger():
     X = int(input("Enter X value :"))
     numbers = []
